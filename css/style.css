@@ -1,5 +1,5 @@
 .hero-section {
-  background: url('image1.jpeg') center center/cover no-repeat;
+  background: url('assets/images/image1.jpeg') center center/cover no-repeat;
   height: 300px;
   position: relative;
 }
